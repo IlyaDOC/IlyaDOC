@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IlyaDOC
 - 👀 I’m interested in learning programming languages, both backend and frontend
-- 🌱 I’m currently learning Python, then i want to learn Django web framework, HTML, CSS, JavaScript, PostgreSQL
+- 🌱 I’m currently learning HTML, CSS, JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
