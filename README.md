@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Ilya
 - 👀 I’m interested in learning programming languages, both backend and frontend
-- 🌱 I’m currently learning HTML, CSS, JavaScript.
